@@ -1,0 +1,14 @@
+{
+  "name": "erab",
+  "version": "1.0.0",
+  "description": "This bot is an Epic RPG Alert Bot",
+  "main": "erab.js",
+  "author": "Ichigo271#9398",
+  "license": "ISC",
+  "engines": {
+    "node": "12.16.1"
+  },
+  "dependencies": {
+    "discord.js": "12.0.2"
+  }
+}
